@@ -377,7 +377,7 @@ a {
 }
 
 .body {
-  background-color: transparent;
+  background-image: linear-gradient(to right, white, #FEFFCF);
   font-family: 'Gothic A1', sans-serif;
   color: #fff;
   font-size: 60px;
